@@ -2,8 +2,6 @@
 title: My First Blog
 ---
 
-
-
 This is my first blog
 
 ~~~c++
