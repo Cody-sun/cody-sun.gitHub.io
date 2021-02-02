@@ -17,21 +17,21 @@ tags: ["python","pyautogui"]
 
 1. 点开模拟器
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/2020-11-19-1.png?raw=true)
+   ![2020-11-19-1](C:\Users\Administrator\QingJun3.github.io\_posts\img\2020-11-19-1.png)
 
 2. 点击蓝色开始行动
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/2020-11-19-2.png?raw=true)
+   ![2020-11-19-2](C:\Users\Administrator\QingJun3.github.io\_posts\img\2020-11-19-2.png)
 
 3. 点击红色开始行动
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/2020-11-19-3.png?raw=true)
+   ![2020-11-19-3](C:\Users\Administrator\QingJun3.github.io\_posts\img\2020-11-19-3.png)
 
 4. 等待关卡打完
 
 5. 点击结束行动(这里不是有特定按钮，但是为了方便，我们选择点击这里结束行动)
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/2020-11-19-4.png?raw=true)
+   ![2020-11-19-4](C:\Users\Administrator\QingJun3.github.io\_posts\img\2020-11-19-4.png)
 
 6. 根据设定的次数重复执行 2~5步
 
@@ -92,16 +92,16 @@ for i in range(num):		 #根据设定的执行次数循环
 
 1. simulator.png
 
-![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/simulator.png?raw=true)
+   ![simulator](https://gitee.com/Cody-sun/cloud-img/raw/master/img/simulator.png)
 
 2. start1.png
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/start1.png?raw=true)
+   ![start1](https://gitee.com/Cody-sun/cloud-img/raw/master/img/start1.png)
 
 3. start2.png
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/start2.png?raw=true)
+   ![start2](https://gitee.com/Cody-sun/cloud-img/raw/master/img/start2.png)
 
 4. end.png
 
-   ![avatar](https://github.com/QingJun3/QingJun3.github.io/blob/master/_posts/img/end.png?raw=true)
+   ![end](https://gitee.com/Cody-sun/cloud-img/raw/master/img/end.png)
