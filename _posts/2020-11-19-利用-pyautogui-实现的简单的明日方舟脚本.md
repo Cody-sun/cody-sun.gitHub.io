@@ -1,5 +1,5 @@
 ---
-title: 利用 pyautogui 实现的简单的明日方舟脚本
+title: 利用 pyautogui 实现明日方舟的自动化操作
 tags: ["python","pyautogui"]
 ---
 
